@@ -10,3 +10,7 @@ A Discord webhook nuker is a type of tool or program that is designed to send a 
 - Programmed by NiJo2.n#8182
 - For educational purposes only
 - Im not responisble for any kind of activity you do with the webhook nuker
+## Screenshots
+![image](https://user-images.githubusercontent.com/120995684/208331080-556e8751-b299-4fee-afa9-9f71d65c553f.png)
+![image](https://user-images.githubusercontent.com/120995684/208331164-c7598b1e-8941-4ec9-ae9f-a2c4fc6b835e.png)
+
