@@ -4,7 +4,7 @@ A Discord webhook nuker is a type of tool or program that is designed to send a 
 ## How to use
 1. Download the Nuker
 2. Open your console and go to the file path
-3. open the jar with java -jar [FileName]
+3. Open the jar with java -jar [FileName]
 4. Enjoy
 ## Credits
 - Programmed by NiJo2.n#8182
